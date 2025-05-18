@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sakethsavyasacchi
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on AI
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me Mail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nice sense of humor
